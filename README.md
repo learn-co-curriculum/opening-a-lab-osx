@@ -1,8 +1,17 @@
 # Opening A Lab
 
+## Opening a Lab
+
+The deep integration of Learn, Git, and GitHub means that you can actually use the native `git` command line application to work on Learn. `git` is complex so we're going to show how it works, but we're also going to show you how to use the simpler `learn` CLI to open a lab.
+
+There are two ways to open a lab on Learn.
+
+1. You can Fork and `git clone` it via Github and `git`.
+2. You can use `learn open` via the Learn CLI. **`learn open` and the Learn CLI is the preferred way to work.**
+
 ## Opening a Lab with Git CLI
 
-The deep integration of Learn, Git, and GitHub means that you can actually use the native `git` command line application to work on Learn. The `git` command line is something every developer uses hundreds of times a day, so while a bit technical, it's a good thing know.
+ The `git` command line is something every developer uses hundreds of times a day, so while a bit technical, it's a good thing know.
 
 In this lesson, we'll show you the sequence of steps (or workflow) needed to use git to solve labs on Learn. Don't worry too much about understanding the details of each command. And there is a simpler workflow that you're going to learn about soon using the `learn` command line application that automates all of this, so really, don't worry if this seems overly complex or cumbersome. Be brave.
 
