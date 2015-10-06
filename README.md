@@ -23,7 +23,7 @@ Forking means that you're creating your own copy of the lab so that you can solv
 
 ![Forking](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png)
 
-Every lab is initially stored in GitHub in an account called `learn-co-students`. Every student has access to that lab. But if you solve that copy of the lab, the next student to attempt the lab will find it already solved. We can't all work on the same copy. Every student on Learn needs their own copy of the original lab. When you fork a lab, that's what you're making, your own copy of a lab. We call the original lab the "Upstream" and we call your version of the lab the "Origin". These copies are called "Remotes". The original lab is the "Upstream" remote, your fork is your "Origin" remote. This is the standard convention for open soure.  When you clone your copy (fork) of the lab, we call that copy your local copy.
+Every lab is initially stored in GitHub in an account called `learn-co-students`. Every student has access to that lab. But if you solve that copy of the lab, the next student to attempt the lab will find it already solved. We can't all work on the same copy. Every student on Learn needs their own copy of the original lab. When you fork a lab, that's what you're making, your own copy of a lab. We call the original lab the "Upstream" and we call your version of the lab the "Origin". These copies are called "Remotes". The original lab is the "Upstream" remote, and your fork will be your "Origin" remote. This is the standard convention for open source.  When you clone your copy (fork) of the lab, we call that copy your local copy.
 
 #### How to Fork a lab
 
@@ -42,7 +42,7 @@ Then select your personal Github account as the location to fork to.
 
 ### Step 2: Clone it Locally
 
-Cloning is the process of making a local copy of the lab from the personal remote of your fork on GitHub, called "Origin".
+Cloning is the process of making a  copy of the lab from your fork on GitHub to your computer, after which the fork is referred to as the "Origin", since the fork is where the code on your computer originated.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png" alt="Git Workflow 2">
 
