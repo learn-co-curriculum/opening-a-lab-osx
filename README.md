@@ -42,7 +42,7 @@ Then select your personal Github account as the location to fork to.
 
 ### Step 2: Clone it Locally
 
-Cloning is the process of making a local copy of the lab from the personal remote of your fork on GitHub, called "Origin".
+Cloning is the process of making a  copy of the lab from your fork on GitHub to your computer, after which the fork is referred to as the "Origin", since the fork is where the code on your computer originated.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png" alt="Git Workflow 2">
 
