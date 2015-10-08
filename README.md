@@ -35,7 +35,7 @@ When you are on a Lab page on Learn, you will click on "View on GitHub" in the L
 
 ![View on GitHub](https://dl.dropboxusercontent.com/s/4wmbuywfusq8l51/2015-09-30%20at%208.17%20PM.png)
 
-The GitHub page for the Lab will open. Click the Fork button on GitHub.
+The GitHub page for the Lab will open. You'll then click the Fork button on GitHub.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg" alt="Ironboard Labs Step 1">
 
