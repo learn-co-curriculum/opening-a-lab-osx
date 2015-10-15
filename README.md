@@ -110,7 +110,7 @@ So that's all you need to remember: press the Open button to get started. Behind
 
 ## Conclusion
 
-The `learn` CLI workflow is a way easier, but just as professional and real so don't feel bad about using `learn` and never using `git`.
+The `learn` CLI workflow is  way easier, but just as professional and real so don't feel bad about using `learn` and never using `git`.
 
 However, sometimes in a lesson on Learn, we'll tell you to Fork and Clone a lab to get started or say something like "Fork this repo". We might use language relating to Git and GitHub to communicate to you that a lesson is a lab and you need to solve it by writing code and submitting it.
 
