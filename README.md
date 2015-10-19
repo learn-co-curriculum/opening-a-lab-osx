@@ -96,7 +96,7 @@ Remember, my Terminal prompt is `// ♥`, yours might be different, generally, `
 5. `cd` changed directory into the cloned lesson's directory.
 6. Opened your favorite text editor, probably Sublime Text.
 
-If you type `learn open` you'll always end up in the right setup to work on a lab, terminal navigated into the lab's directory and and the lab's directory opened in a text editor.
+If you type `learn open` you'll always end up in the right setup to work on a lab, terminal navigated into the lab's directory and the lab's directory opened in a text editor.
 
 ![Ready to Work](https://dl.dropboxusercontent.com/s/je5pazo2edy5cwl/2015-09-30%20at%207.34%20PM.png)
 
