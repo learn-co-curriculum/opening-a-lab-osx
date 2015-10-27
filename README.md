@@ -89,7 +89,7 @@ When you're on a Lab on Learn.co and want to begin working on it, go to your Ter
 
 Remember, my Terminal prompt is `// ♥`, yours might be different, generally, `$`. After typing `learn open`, the `learn` application did the following:
 
-1. Checked what your current lesson on Learn.
+1. Checked what your current lesson on Learn is.
 2. Forked that lesson on GitHub (notice the Fork light turned green on the right in Learn).
 3. Cloned your fork lesson locally, generally into a directory `~/Development/code/` (which is your home directory, the `Development` folder, and then a folder `code`).
 4. Prepared the lesson bundle, which isn't something you need to worry about at all yet, but it did it for you just in case.
