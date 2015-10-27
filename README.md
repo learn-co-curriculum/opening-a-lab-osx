@@ -92,7 +92,7 @@ Remember, my Terminal prompt is `// ♥`, yours might be different, generally, `
 1. Checked what your current lesson on Learn.
 2. Forked that lesson on GitHub (notice the Fork light turned green on the right in Learn).
 3. Cloned your fork lesson locally, generally into a directory `~/Development/code/` (which is your home directory, the `Development` folder, and then a folder `code`).
-4. Prepared the lesson bundle, which isn't something you need to worry about at all yet, but it did it for you just in case.
+4. Prepared the lesson bundle, which isn't something you need to worry about at all yet, but is done for you just in case.
 5. `cd` changed directory into the cloned lesson's directory.
 6. Opened your favorite text editor, probably Sublime Text.
 
